@@ -17,3 +17,9 @@ This repository showcases my completed projects and coursework from the **Natura
 ## **Certification**   
 [![Certification](https://img.shields.io/badge/Certification-NLP_Specialization-blue)](https://www.coursera.org/account/accomplishments/specialization/KERR8B6BAV9J)  
 *Click the badge to verify my certification.* 
+
+## **Disclaimer**  
+This repository contains code and projects completed as part of the **Natural Language Processing Specialization** by **DeepLearning.AI** on Coursera. The code is provided for **educational and reference purposes only**.  
+
+- Do not copy and submit this code as your own for Coursera assignments or any other purpose.  
+- If you are taking the same course, I encourage you to solve the assignments on your own to maximize your learning. 
